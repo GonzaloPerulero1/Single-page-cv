@@ -6,3 +6,4 @@ El objetivo es hacer una pagina simple del curriculum teniendo en cuenta la estr
 * Metaetiquetas SEO
 * Etiquetas Open Graph (OG)
 * Favicon
+URL https://github.com/GonzaloPerulero1/Single-page-cv
