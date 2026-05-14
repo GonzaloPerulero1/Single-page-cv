@@ -6,5 +6,7 @@ El objetivo es hacer una pagina simple del curriculum teniendo en cuenta la estr
 * Metaetiquetas SEO
 * Etiquetas Open Graph (OG)
 * Favicon
+# Como abrir el proyecto
+Abrí el archivo `index.html` en tu navegador, o visitá la URL del proyecto.
 # URL 
 https://gonzaloperulero1.github.io/Single-page-cv/
